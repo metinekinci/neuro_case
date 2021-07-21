@@ -25,7 +25,7 @@ def index():
         return 'This is a case study for neuro.net' #If request method is get give information about application
     if request.method == "POST":
         params = {
-        'apikey': 'd5011421-d76f-4e9b-9265-85d6ac5fffa7',#Geocoder
+        'apikey': '*****',#Geocoder
         'geocode': 'MKAD',                               #API
         'lang': 'en_RU',                                 #Required
         'format':'json'                                  #Parameters for the MKAD's informations
