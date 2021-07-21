@@ -38,4 +38,4 @@ The address to be processed should be entered in the <address> field. The web ad
 ## Test
 Below is the image of the tests and the log file made by entering some addresses into the application.
 
-![On Python Application](https://mekinci.pythonanywhere.com/static/logfile_ss.PNG)
+![Screenshot](logfile_ss.PNG)
