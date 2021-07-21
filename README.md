@@ -38,4 +38,5 @@ The address to be processed should be entered in the <address> field. The web ad
 ## Test
 Below is the image of the tests and the log file made by entering some addresses into the application.
 
-![Screenshot](logfile_ss.PNG)
+![alt text](https://github.com/metinekinci/neuro_case/blob/main/terminal_ss.PNG?raw=true)
+  
