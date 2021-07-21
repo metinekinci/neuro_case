@@ -37,4 +37,4 @@ The address to be processed should be entered in the <address> field. The web ad
 [Log file](https://mekinci.pythonanywhere.com/static/neuro_case.log)
 ## Test
 Below is the image of the tests and the log file made by entering some addresses into the application.
-![On Python Application](https://github.com/metinekinci/neuro_case/terminal_ss.PNG?raw=true)
+![On Python Application](https://mekinci.pythonanywhere.com/static/logfile_ss.PNG)
